@@ -1,0 +1,19 @@
+{
+  "name": "state-management",
+  "version": "1.0.0",
+  "description": "This repository is practicing for managing state in modern front-end framework. Source code is learned from Udacity's lecture.",
+  "main": "src/index.js",
+  "directories": { 
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "babel src/main.js -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0"
+  }
+}

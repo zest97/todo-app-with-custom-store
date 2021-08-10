@@ -1,0 +1,11 @@
+const ADD_TODO = 'ADD_TODO'
+const REMOVE_TODO = 'REMOVE_TODO'
+const TOGGLE_TODO = 'TOGGLE_TODO'
+const ADD_GOAL = 'ADD_GOAL'
+const REMOVE_GOAL = 'REMOVE_GOAL'
+
+module.exports.ADD_TODO = ADD_TODO
+module.exports.REMOVE_TODO = REMOVE_TODO
+module.exports.TOGGLE_TODO = TOGGLE_TODO
+module.exports.ADD_GOAL = ADD_GOAL
+module.exports.REMOVE_GOAL = REMOVE_GOAL
